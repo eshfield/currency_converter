@@ -1,0 +1,18 @@
+{
+  "@@locale": "ru",
+  "homeRouteLabel": "Главная",
+  "atmsRouteLabel": "Банкоматы",
+  "moneyBoxRouteLabel": "Копилка",
+  "converterRouteLabel": "Конвертер валют онлайн",
+  "tabConverterLabel": "Конвертер",
+  "tabRatesLabel": "Курсы валют",
+  "title": "Конвертер валют",
+  "fetchedAt": "Данные за",
+  "warningMessage": "Все переводы курсов конвертер осуществляет на основе стоимости валют по данным ЦБ РФ",
+  "errorMessage": "Не удалось получить обменные курсы валют. Повторите запрос позже",
+  "applyButtonLabel": "Применить",
+  "repeatButtonLabel": "Повторить",
+  "currencyFromLabel": "Хочу обменять:",
+  "currencyToLabel": "Вы получите:",
+  "bottomSheetTitle": "Выберите валюту"
+}
