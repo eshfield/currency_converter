@@ -38,7 +38,7 @@ class _ExchangerCurrencySectionState extends State<ExchangerCurrencySection> {
   late Currency currency;
   late Widget rateInfo;
   late void Function(String) inputUnitsOnChanged;
-  late void Function()? inputCurrencyOnTap;
+  late VoidCallback? inputCurrencyOnTap;
   late Widget inputCurrencyArrow;
 
   @override

@@ -6,7 +6,7 @@ import 'box_shadow.dart';
 
 class ApplyButton extends StatelessWidget {
   final String label;
-  final void Function() onTap;
+  final VoidCallback onTap;
 
   const ApplyButton({
     super.key,

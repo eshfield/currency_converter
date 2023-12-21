@@ -110,7 +110,7 @@ void showCurrencyBottomSheet(BuildContext context) {
 
 class CurrencyListItem extends StatelessWidget {
   final Currency currency;
-  final void Function() onTap;
+  final VoidCallback onTap;
   final bool isSelected;
 
   const CurrencyListItem({

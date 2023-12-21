@@ -5,7 +5,7 @@ import '../styles.dart';
 
 class RepeatButton extends StatelessWidget {
   final String label;
-  final void Function() onTap;
+  final VoidCallback onTap;
 
   const RepeatButton({
     super.key,
